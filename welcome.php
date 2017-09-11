@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Testing.php</title>
+		<title>Selamat datang!</title>
 	</head>
 
 	<body>

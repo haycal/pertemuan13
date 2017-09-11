@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Selamat datang!</title>
+		<title>Selamat!</title>
 	</head>
 
 	<body>

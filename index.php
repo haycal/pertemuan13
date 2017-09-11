@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Materi: Searching</title>
+		<title>Searching</title>
 	</head>
 	
 	<body>
